@@ -68,7 +68,7 @@ Contributions are what make open-source projects shine! If you’d like to help 
 6. **Open a Pull Request:** Let’s review your hard work together!
 
 ## License
-This project is open-source and licensed under the MIT License. Feel free to use and modify it to your heart's content!
+This project is open-source. Feel free to use and modify it to your heart's content!
 
 ## Let’s Connect! 💬
 I’d love to hear from you! If you have questions, feedback, or just want to say hi, reach out via GitHub Issues or drop me an email at sainishubham416@gmail.com.
